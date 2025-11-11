@@ -113,18 +113,18 @@ Open in browser:
 
 ## 🖥️ Example Workflow
 
-1.  Upload paper → App extracts text.\
-2.  Choose a section → AI generates summary.\
+1.  Upload paper → App extracts text.
+2.  Choose a section → AI generates summary.
 3.  Ask any question → RAG ensures grounded answers.
 
 ---
 
 ## ✅ Future Enhancements
 
-- Multi-paper comparison\
-- Reference detection & citation mapping\
-- PDF highlighting\
-- Exportable summaries\
+- Multi-paper comparison
+- Reference detection & citation mapping
+- PDF highlighting
+- Exportable summaries
 - Multilingual support
 
 ---
